@@ -1,0 +1,18 @@
+{
+  "slug": "CIXIN",
+  "name": "CIXIN",
+  "author": "Mouse",
+  "version": "1.0.0",
+  "description": "Hello, this is a test project that allows you to synthesise this heart. Yes, it is a test project designed to check whether the project marketplace is functioning correctly. If you come across it, you can either ignore it or download it and have a go.",
+  "license": "MIT",
+  "icon": "projects/CIXIN.icon.png",
+  "cbp": "projects/CIXIN.cbp",
+  "assetsPath": "projects/CIXIN/assets",
+  "assets": [
+    "3sun.jpg",
+    "CIXIN.jpg",
+    "i18n.png",
+    "LIUCIXIN.jpg"
+  ],
+  "parts": []
+}
