@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "slug": "CIXIN_a",
+    "name": "CIXIN",
+    "author": "s",
+    "version": "1.0.0",
+    "description": "s",
+    "license": "MIT",
+    "cbp": "projects/CIXIN_a.cbp",
+    "cbpSize": 7369,
+    "cbpSha256": "0dbf66682d6b3469dfc977469976a85139432fa729517aaaf592259547ef941e",
+    "assets": [
+      "3sun.jpg",
+      "CIXIN.jpg",
+      "i18n.png",
+      "LIUCIXIN.jpg"
+    ],
+    "assetsPath": "projects/CIXIN_a/assets",
+    "icon": "projects/CIXIN_a.icon.png"
+  }
+]
