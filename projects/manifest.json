@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "slug": "test",
+    "name": "test",
+    "author": "Mouse Dev",
+    "version": "1.0.0",
+    "description": "Test Project",
+    "license": "MIT",
+    "cbp": "projects/test.cbp",
+    "cbpSize": 1858,
+    "cbpSha256": "0f9c28ab42b3d41b2aa678705c3e6bb5a041ffde0d0993a1fdb343f49547b48b",
+    "assets": [],
+    "assetsPath": "projects/test/assets",
+    "icon": "projects/test.icon.png"
+  }
+]
